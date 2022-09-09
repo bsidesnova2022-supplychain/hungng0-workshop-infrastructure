@@ -24,7 +24,7 @@ spec:
         app: run-service
     spec:
       containers:
-      - image: public.ecr.aws/o6u7e2l7/bsidesnova2022:hungng0-workshop-application-e3e8178e1529689bff05df27335a822fdfd1bf12
+      - image: public.ecr.aws/o6u7e2l7/bsidesnova2022:hungng0-workshop-application-b045b326c35cd4c8fcb347425d09418a7804c9dc
         imagePullPolicy: Always
         name: pause
         resources: {}
